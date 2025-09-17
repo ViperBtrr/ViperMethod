@@ -1,5 +1,7 @@
+-- Execute bypass first
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua",true))()
 
- -- Load the UI library with the purple theme
+-- Load the UI library with the purple theme
  local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/ViperBtrr/ViperMethod/refs/heads/main/VipersUI"))();
   
  
