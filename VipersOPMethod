@@ -1,5 +1,5 @@
 -- Load the UI library with Lime Green theme
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/IncredibleMan111/TheIncredibleMethod/refs/heads/main/VipersUI.lua"))();
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/ViperBtrr/ViperMethod/refs/heads/main/VipersUI"))();
 
 local PlaceId = game.PlaceId
 
